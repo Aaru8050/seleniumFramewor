@@ -12,5 +12,6 @@ public class Practice1 {
 		WebDriver driver = new ChromeDriver();
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver1 = new EdgeDriver();
+		//pulled
 	}
 }
